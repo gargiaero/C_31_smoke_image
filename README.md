@@ -1,0 +1,1 @@
+# C_31_smoke_image
